@@ -16,9 +16,7 @@ Sumz adalah sebuah Aplikasi yang di buat untuk merangkun artikel - artikel yang 
 
 ![App Screenshot](https://i.ibb.co/WxmrJ4F/Sumz.png)
 
-## Demo
 
-Demo bisa dilihat di link berikut [Demo Aplikasi](https://sumz-articles.netlify.app)
 ## Run Locally
 
 Clone the project
